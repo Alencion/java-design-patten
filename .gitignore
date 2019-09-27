@@ -1,3 +1,7 @@
-./idea
+idea/
+/idea
 *.iml
+out
+/out
+./out
 
